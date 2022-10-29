@@ -7,4 +7,7 @@ Some chatbots use sophisticated natural language processing systems, but many si
 
 The term "ChatterBot" was originally coined by Michael Mauldin (creator of the first Verbot, Julia) in 1994 to describe these conversational programs. Today, most chatbots are accessed via virtual assistants such as Google Assistant and Amazon Alexa, via messaging apps such as Facebook Messenger or WeChat, or via individual organizations' apps and websites.Chatbots can be classified into usage categories such as conversational commerce (e-commerce via chat), analytics, communication, customer support, design, developer tools, education, entertainment, finance, food, games, health, HR, marketing, news, personal, productivity, shopping, social, sports, travel and utilities.
 
-Bey
+Beyond chatbots, Conversational AI refers to the use of messaging apps, speech-based assistants and chatbots to automate communication and create personalized customer experiences at scale. 
+
+Background of chatbot
+In 1950, Alan Turing's famous article "Computing Machinery and Intelligence" was published, w
