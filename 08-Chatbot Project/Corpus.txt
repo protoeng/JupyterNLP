@@ -35,4 +35,4 @@ As of 2017, the capabilities and usage of virtual assistants are expanding rapid
 History of virtual assistant
 Radio Rex was the first voice activated toy released in 1911
 
-Another of early tool which was enabled to perform digital speech recognition was the IBM Shoebox, presented to the general public during the 1962 Seattle World's Fair after its initia
+Another of early tool which was enabled to perform digital speech recognition was the IBM Shoebox, presented to the general public during the 1962 Seattle World's Fair after its initial market launch in 1961. This early computer, developed almost 20 years before the introduction of the first IBM Personal Computer in 1981, was able to recognize 16 spoken words and the digits 0 to 9. The next milestone in the development of voice recognition technology was achieved in the 1970s at the Carnegie Mellon University in Pittsburgh, Pe
